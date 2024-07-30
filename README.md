@@ -1,8 +1,41 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Portifólio - React + SASS
 
-Currently, two official plugins are available:
+Página desenvolvida onde treinei o uso do SASS no React e já aproveitei para criar um portifólio de para apresentar meus conhecimentos.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/ad67cd44-b5c3-4118-9555-29896539bc6c)
+
+
+## 📡 Tecnologias utilizadas
+
+<img src="https://github.com/user-attachments/assets/e839c0ef-208f-4b51-9639-5fafa2c5b120" width="25px"/> <img src="https://github.com/user-attachments/assets/2339e312-849a-4446-a14f-8c3214a67767" width="25px"/> 
+
+
+
+
+## 🛠️ Bibliotecas utilizadas
+- react-icons
+
+
+## 🤵 Autores
+
+- [@phlgoncalves](https://github.com/phlgoncalves/)
+
+
+
+## Documentação de cores
+
+| Cor               | Hexadecimal                                                |
+| ----------------- | ---------------------------------------------------------------- |
+| Primary       | ![#FFB288](https://via.placeholder.com/10/FFB288?text=+) #232323 |
+| Secoundary       | ![#f7f7f7](https://via.placeholder.com/10/f7f7f7?text=+) #111 |
+
+
+## Status do Projeto
+![status](https://github.com/user-attachments/assets/feaed2ba-4df4-4407-a828-bf4873560dca)
+
+
+## 🔎 Link para acessar
+
+
+
