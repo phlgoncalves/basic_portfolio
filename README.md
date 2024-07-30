@@ -27,8 +27,8 @@ Página desenvolvida onde treinei o uso do SASS no React e já aproveitei para c
 
 | Cor               | Hexadecimal                                                |
 | ----------------- | ---------------------------------------------------------------- |
-| Primary       | ![#FFB288](https://via.placeholder.com/10/FFB288?text=+) #232323 |
-| Secoundary       | ![#f7f7f7](https://via.placeholder.com/10/f7f7f7?text=+) #111 |
+| Primary       | ![#232323](https://via.placeholder.com/10/232323?text=+) #232323 |
+| Secoundary       | ![#111](https://via.placeholder.com/10/111?text=+) #111 |
 
 
 ## Status do Projeto
