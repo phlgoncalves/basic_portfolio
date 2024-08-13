@@ -31,3 +31,25 @@
         @include btn;
     }
 }
+
+@media(max-width: $lg){
+    #sidebar
+    img{
+        max-width: 30%;
+    }
+}
+
+@media (max-width: $md) {
+    #sidebar
+    img{
+        max-width: 40%;
+    }
+}
+
+@media (max-width: $sm) {
+    #sidebar
+    img{
+        max-width: 50%;
+        top: -1;
+    }
+}

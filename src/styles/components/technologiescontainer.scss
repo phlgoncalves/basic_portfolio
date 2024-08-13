@@ -70,5 +70,16 @@
         }
     }
 
+}
 
+@media (max-width: $sm) {
+    .technologies-container .technologies-grid .technology-card {
+        width: 100%;
+    }
+}
+
+@media (max-width: $md) {
+    .technologies-container .technologies-grid .technology-card {
+        width: 95%;
+    }
 }

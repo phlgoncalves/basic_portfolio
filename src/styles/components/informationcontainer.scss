@@ -52,3 +52,10 @@
         color: #c17ceb;
     }
 }
+
+@media (max-width: $sm) {
+    #information
+    p{
+     font-size: small;
+    }
+}

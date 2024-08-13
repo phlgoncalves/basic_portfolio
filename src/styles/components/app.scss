@@ -16,3 +16,20 @@
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
 }
+
+
+@media (max-width: $md) {
+    #portfolio
+    h1{
+        font-size: 3.2rem;
+        text-align: center;
+    }
+}
+
+@media (max-width: $sm) {
+    #portfolio 
+    h1{
+        font-size: 2.3rem;
+        text-align: center;
+    }
+}
