@@ -36,6 +36,6 @@ Página desenvolvida onde treinei o uso do SASS no React e já aproveitei para c
 
 
 ## 🔎 Link para acessar
-
+https://phlgoncalves.github.io/basic_portfolio/
 
 
